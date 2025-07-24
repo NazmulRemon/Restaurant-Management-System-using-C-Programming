@@ -1,0 +1,33 @@
+Appetizer:
+Hot fries			115
+Wedges				115
+Onion rings			119
+Tacos				220
+Fried strip chicken		239
+Garlic mushroom			249
+
+Rice Meals:
+Gyro chicken			239
+Grilled chicken steak		279
+Fried katsu chicken		299
+Roasted tandoori chicken	329
+Spicy basil chicken		359
+Peri peri steak			389
+Creamy shroom stuffed chicken 479
+
+Meat platters:
+Katsu chicken			309
+Peri peri steak			349
+Roasted tandoori		379
+Chicken steak			399
+Peri peri steak couple(1:2)	799
+Shroom stuffed chicken		549
+
+Drinks:
+Cold Coffee			110
+Choco cold coffee		120
+Strawberry shake		120
+Oreo cracker			160
+Kitkat shake			180
+Soft drinks			20
+Water				20
